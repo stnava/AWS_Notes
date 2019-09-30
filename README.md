@@ -23,4 +23,8 @@ aws s3 mb s3://example-bucket
 aws s3 cp help
 ```
 
+## Install software
+
+[https://docs.aws.amazon.com/parallelcluster/latest/ug/pre_post_install.html](https://docs.aws.amazon.com/parallelcluster/latest/ug/pre_post_install.html)
+
 ## 
