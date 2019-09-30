@@ -27,4 +27,8 @@ aws s3 cp help
 
 [https://docs.aws.amazon.com/parallelcluster/latest/ug/pre_post_install.html](https://docs.aws.amazon.com/parallelcluster/latest/ug/pre_post_install.html)
 
-## 
+## Submit jobs
+
+https://aws.amazon.com/blogs/opensource/aws-parallelcluster/
+
+
