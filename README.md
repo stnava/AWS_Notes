@@ -31,4 +31,9 @@ aws s3 cp help
 
 https://aws.amazon.com/blogs/opensource/aws-parallelcluster/
 
+## Re-submit jobs
+
+still an open question
+
+https://github.com/aws/aws-parallelcluster/issues/1077
 
